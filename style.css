@@ -1,0 +1,10 @@
+.container {
+    width: 300px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: white;
+  }
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
